@@ -1,0 +1,12 @@
+# Python
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.DS_Store
+
+# Local secrets (CARTO_API_KEY)
+.env
